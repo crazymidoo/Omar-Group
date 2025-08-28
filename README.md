@@ -15,4 +15,4 @@ Progettato per presentare servizi, lavori eseguiti e informazioni di contatto.
 - CSS3
 - JavaScript (Per gestione animazioni)
 - Google Fonts
-- Google Maps Embed
+- Google Maps Embed (Per mostrare ai possibili clienti la sede dell'impresa)
