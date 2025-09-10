@@ -9,7 +9,7 @@ Progettato per presentare servizi, lavori eseguiti e informazioni di contatto.
 - Presentare alcuni lavori svolti con una galleria immagini.
 - Integrare una mappa interattiva per la localizzazione dell'azienda.
 - Trasmettere ai clienti fiducia e professionalità.
-
+ 
 # Tecnologie utilizzate:
 - HTML5
 - CSS3
