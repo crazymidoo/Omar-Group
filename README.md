@@ -1,4 +1,4 @@
-# Omar Group - Impresa Edile  
+# Omar Group - Impresa Edile
 Sito web BOZZA per Omar Group, impresa edile con sede a Milano.  
 <br>
 Progettato per presentare servizi, lavori eseguiti e informazioni di contatto.
