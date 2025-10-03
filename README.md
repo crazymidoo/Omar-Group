@@ -6,7 +6,7 @@ Progettato per presentare servizi, lavori eseguiti e informazioni di contatto.
 # Obiettivi del progetto:
 - Realizzare un sito moderno e professionale.
 - Mostrare i servizi offerti dall'impresa.
-- Presentare alcuni lavori svolti con una galleria immagini.
+- Presentare alcuni lavori svolti con una galleria immagini. 
 - Integrare una mappa interattiva per la localizzazione dell'azienda. 
 - Trasmettere ai clienti fiducia e professionalità. 
  
