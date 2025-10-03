@@ -11,7 +11,7 @@ Progettato per presentare servizi, lavori eseguiti e informazioni di contatto.
 - Trasmettere ai clienti fiducia e professionalità. 
  
 # Tecnologie utilizzate:
-- HTML5
+- HTML5 
 - CSS3
 - JavaScript (Per gestione animazioni)
 - Google Fonts
